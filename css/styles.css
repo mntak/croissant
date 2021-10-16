@@ -1,0 +1,24 @@
+body {
+  background: beige;
+}
+
+.croissant-photo {
+  display: block;
+  max-width: 50%;
+  border-radius: 15px;
+  margin: 40px auto;
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 15px;
+}
+
+a {
+  display: inline-block;
+  color: blue;
+}
